@@ -1,3 +1,3 @@
 # Demo
 
-Ein solches Hashtag Symbol ist ein Titel
+Ein Hashtag Symbol ist ein Titel
